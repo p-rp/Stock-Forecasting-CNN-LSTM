@@ -1,0 +1,5 @@
+{
+    "forecast_horizon": 10,
+    "prediction_window": 40,
+    "error": 0.14729875555826402
+}

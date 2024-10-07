@@ -1,0 +1,40 @@
+forecast horizon	prediction window	average error
+1			5			0.2781763216938685
+forecast horizon	prediction window	average error
+1			10			0.23239251711907033
+forecast horizon	prediction window	average error
+1			20			0.22754875412852887
+forecast horizon	prediction window	average error
+1			40			0.26221038534367114
+forecast horizon	prediction window	average error
+2			5			0.185851518936472
+forecast horizon	prediction window	average error
+2			10			0.21826664051642677
+forecast horizon	prediction window	average error
+2			20			0.20888717072665647
+forecast horizon	prediction window	average error
+2			40			0.19260719323789846
+forecast horizon	prediction window	average error
+5			5			0.21187859824494346
+forecast horizon	prediction window	average error
+5			10			0.23594721344554098
+forecast horizon	prediction window	average error
+5			20			0.21120495128684985
+forecast horizon	prediction window	average error
+5			40			0.21920105700750692
+forecast horizon	prediction window	average error
+10			5			0.19700747787704492
+forecast horizon	prediction window	average error
+10			10			0.16777442574340715
+forecast horizon	prediction window	average error
+10			20			0.1647309877717114
+forecast horizon	prediction window	average error
+10			40			0.16280083703662807
+forecast horizon	prediction window	average error
+15			5			0.3189487995027448
+forecast horizon	prediction window	average error
+15			10			0.241742396314457
+forecast horizon	prediction window	average error
+15			20			0.19209422456411632
+forecast horizon	prediction window	average error
+15			40			0.23434437086066126
